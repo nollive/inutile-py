@@ -26,7 +26,7 @@ def get_h2_texts(password, count):
 
 print("Le script inutile tourne en continu...")
 
-count = 2413
+count = 1
 
 while True: #miam
     password = "inutile"  # autant choisir un mot de passe inspiré pour plus de sécurité
