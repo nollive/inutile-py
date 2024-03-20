@@ -1,2 +1,6 @@
-# inutile-py
-# inutile-py
+## inutile-py or The Password Security Checker's checker
+
+Script inutile pour assouvir ma curiosité vis à vis du petit "easter egg" laissé dans le "The Password Security Checker" de Estatis Inc. (disponible à l'adresse https://inutile.club/estatis/password-security-checker/ (lien valide le 20/03/2024)
+ce script est inutile, c'est un peu le serpent qui se mort la queue...
+
+Merci à Antoine Amarilli (https://a3nm.net/) pour ce site, j'espère trouver la dernière phrase disponible...
